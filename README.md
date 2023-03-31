@@ -26,3 +26,6 @@ To run this application on your local machine, follow these steps:
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
+
+## Images
+![Screenshot 2023-03-31 at 5 54 25 PM](https://user-images.githubusercontent.com/35868598/229119267-c8a920ed-2374-4a69-95a5-dd8cea7c5e1a.png)
