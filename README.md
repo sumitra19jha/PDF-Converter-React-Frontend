@@ -1,4 +1,4 @@
-# PDF Converter
+# PDF Converter React Frontend For GPT-3.5
 
 This is a React application that allows you to convert your PDFs to text and view the output. You can also specify a city and country to get location-specific information.
 
